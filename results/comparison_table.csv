@@ -1,0 +1,5 @@
+pendekatan,level,n,accuracy,precision,recall,f1
+Classic ML (TF-IDF + LR),per baris,40,0.625,0.628,0.629,0.625
+Classic ML (TF-IDF + LR),per teks unik,8,0.75,0.75,0.75,0.75
+LLM (gpt-oss:20b),per baris,40,1.0,1.0,1.0,1.0
+LLM (gpt-oss:20b),per teks unik,8,1.0,1.0,1.0,1.0

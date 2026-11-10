@@ -1,5 +1,7 @@
-pandas
-scikit-learn
-google-genai
-jupyterlab
-ipykernel
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+matplotlib>=3.8
+ollama>=0.5
+ipykernel>=6.29
+jupyter>=1.0

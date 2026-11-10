@@ -1,0 +1,41 @@
+review_id,review_text,sentiment,llm_raw,latency_s,reused,model,temperature,seed,llm_pred
+7,Sudah bayar mahal tapi kualitas jauh dari ekspektasi.,negatif,negatif,11.293200707994401,False,gpt-oss:20b,0,42,negatif
+8,"Belanja disini selalu puas, kualitas terjaga.",positif,positif,1.297202916117385,False,gpt-oss:20b,0,42,positif
+14,"Barang yang datang tidak sesuai dengan foto, kecewa berat.",negatif,negatif,1.0580827079247683,False,gpt-oss:20b,0,42,negatif
+15,Barang tidak berfungsi sama sekali begitu diterima.,negatif,negatif,1.009224124951288,False,gpt-oss:20b,0,42,negatif
+22,"Sudah langganan di toko ini, kualitas selalu konsisten bagus.",positif,positif,2.2410226250067353,False,gpt-oss:20b,0,42,positif
+25,"Bahan murahan, tidak sesuai dengan harga yang dibayarkan.",negatif,negatif,1.0750644160434604,False,gpt-oss:20b,0,42,negatif
+30,Sudah bayar mahal tapi kualitas jauh dari ekspektasi.,negatif,negatif,,True,gpt-oss:20b,0,42,negatif
+35,Barang tidak berfungsi sama sekali begitu diterima.,negatif,negatif,,True,gpt-oss:20b,0,42,negatif
+40,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,positif,2.3156584589742124,False,gpt-oss:20b,0,42,positif
+45,"Barang datang lebih cepat dari perkiraan, kualitas top!",positif,positif,1.0512042080517858,False,gpt-oss:20b,0,42,positif
+48,Sudah bayar mahal tapi kualitas jauh dari ekspektasi.,negatif,negatif,,True,gpt-oss:20b,0,42,negatif
+59,"Bahan murahan, tidak sesuai dengan harga yang dibayarkan.",negatif,negatif,,True,gpt-oss:20b,0,42,negatif
+62,"Bahan murahan, tidak sesuai dengan harga yang dibayarkan.",negatif,negatif,,True,gpt-oss:20b,0,42,negatif
+69,"Sudah langganan di toko ini, kualitas selalu konsisten bagus.",positif,positif,,True,gpt-oss:20b,0,42,positif
+76,"Barang datang lebih cepat dari perkiraan, kualitas top!",positif,positif,,True,gpt-oss:20b,0,42,positif
+87,"Sudah langganan di toko ini, kualitas selalu konsisten bagus.",positif,positif,,True,gpt-oss:20b,0,42,positif
+95,"Bahan murahan, tidak sesuai dengan harga yang dibayarkan.",negatif,negatif,,True,gpt-oss:20b,0,42,negatif
+96,"Barang datang lebih cepat dari perkiraan, kualitas top!",positif,positif,,True,gpt-oss:20b,0,42,positif
+109,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,positif,,True,gpt-oss:20b,0,42,positif
+110,"Barang datang lebih cepat dari perkiraan, kualitas top!",positif,positif,,True,gpt-oss:20b,0,42,positif
+121,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,positif,,True,gpt-oss:20b,0,42,positif
+128,Barang tidak berfungsi sama sekali begitu diterima.,negatif,negatif,,True,gpt-oss:20b,0,42,negatif
+132,Sudah bayar mahal tapi kualitas jauh dari ekspektasi.,negatif,negatif,,True,gpt-oss:20b,0,42,negatif
+133,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,positif,,True,gpt-oss:20b,0,42,positif
+137,"Bahan murahan, tidak sesuai dengan harga yang dibayarkan.",negatif,negatif,,True,gpt-oss:20b,0,42,negatif
+142,"Barang datang lebih cepat dari perkiraan, kualitas top!",positif,positif,,True,gpt-oss:20b,0,42,positif
+144,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,positif,,True,gpt-oss:20b,0,42,positif
+150,"Belanja disini selalu puas, kualitas terjaga.",positif,positif,,True,gpt-oss:20b,0,42,positif
+151,Sudah bayar mahal tapi kualitas jauh dari ekspektasi.,negatif,negatif,,True,gpt-oss:20b,0,42,negatif
+153,"Barang datang lebih cepat dari perkiraan, kualitas top!",positif,positif,,True,gpt-oss:20b,0,42,positif
+154,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,positif,,True,gpt-oss:20b,0,42,positif
+157,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,positif,,True,gpt-oss:20b,0,42,positif
+165,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,positif,,True,gpt-oss:20b,0,42,positif
+175,Barang tidak berfungsi sama sekali begitu diterima.,negatif,negatif,,True,gpt-oss:20b,0,42,negatif
+180,Barang tidak berfungsi sama sekali begitu diterima.,negatif,negatif,,True,gpt-oss:20b,0,42,negatif
+186,"Belanja disini selalu puas, kualitas terjaga.",positif,positif,,True,gpt-oss:20b,0,42,positif
+188,"Sudah langganan di toko ini, kualitas selalu konsisten bagus.",positif,positif,,True,gpt-oss:20b,0,42,positif
+190,Barang tidak berfungsi sama sekali begitu diterima.,negatif,negatif,,True,gpt-oss:20b,0,42,negatif
+196,"Bahan murahan, tidak sesuai dengan harga yang dibayarkan.",negatif,negatif,,True,gpt-oss:20b,0,42,negatif
+198,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,positif,,True,gpt-oss:20b,0,42,positif
